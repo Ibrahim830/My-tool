@@ -1,4 +1,13 @@
-
+num = int(input( "Ener The passowrd: "))
+if num == 662004:
+    print("===============")
+    print("ok")
+    print("===============")
+else:
+    print("================")
+    print (Error)
+    print("================")
+    
 print("WELCOM WORLD LIME ")
 print ("01559065506")
 
@@ -45,7 +54,7 @@ num2 = int(input('Enter number2  :'))
 print("============================")
 
 if work  == '+':
-    print(num1 + num2 )
+     print(num1 + num2 )
 elif work == '-':
     print(num1 - num2 )
 elif work  == '*':
@@ -60,4 +69,4 @@ else:
 
 print("===========================")
 
-input('(please enter to exit... ')
+input(' please Enter to exit ...')
