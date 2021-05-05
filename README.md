@@ -10,4 +10,4 @@ cd My-tool
 
 
 
-python2 Lime .py
+python2 'Lime .py'
