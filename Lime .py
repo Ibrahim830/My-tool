@@ -60,4 +60,4 @@ else:
 
 print("===========================")
 
-input('(Enter) للخروج اضغط زر')
+input('(please enter to exit... ')
