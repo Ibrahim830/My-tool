@@ -36,11 +36,11 @@ num1 = int(input(' Enter number 1:'))
 
 
 print("============================")
-work = input('اختار العمليه الحسابيه (+,-,/):')
+work = input('select option(+,-,/):')
 
 print("============================")
 
-num2 = int(input('اكتب الرقم الثاني  :'))
+num2 = int(input('Enter number2  :'))
 
 print("============================")
 
@@ -56,7 +56,7 @@ elif work == '//':
     print(num1 // num2)
     
 else:
-    print('الرجاء كتابة الاوامر بشكل صحيح ')
+    print(' Error... ')
 
 print("===========================")
 
