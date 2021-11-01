@@ -6,8 +6,8 @@ git clone https://github.com/Ibrahim830/My-tool
 
 ls 
 
-cd My-tool
+cd lime
 
 
 
-python2 'Lime .py'
+python2 lime.py
