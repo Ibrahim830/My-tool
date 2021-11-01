@@ -1,3 +1,7 @@
+
+
+
+
 num = int(input( "Ener The passowrd: "))
 if num == 662004:
     print("===============")
@@ -5,35 +9,60 @@ if num == 662004:
     print("===============")
 else:
     print("================")
-    print (Error)
+    input('Error try agen:' )
     print("================")
     
 print("WELCOM WORLD LIME ")
 print ("01559065506")
 
+name = ("LIME")
+print (name)
+
+
+
+
+
+
+
+
+
+
+print("		 _     _                	")
+print("		| |   (_)_ __ ___   ___ 	")
+print("		| |   | | '_ ` _ \ / _ \	")
+print("		| |___| | | | | | |  __/	")
+print("		|_____|_|_| |_| |_|\___|	")
+
+print("======================================================")
+print("======================================================")
+
+
+
+
+
 
 
 print      ("          ====================")
 print      ("          =======Lime=========")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
-print        ("                 +**+        ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
+print        ("                 ====       ")
 print      ("          =======Lime=========")
 print      ("          ====================")
 
